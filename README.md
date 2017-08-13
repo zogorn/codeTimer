@@ -9,10 +9,11 @@ Developed for help web developer with the [stopWatch tap extention](https://chro
 ## Quick Start
 You can choose from one of the bellow options:
 + [Download the latest version](https://github.com/zogorn/codeTimer/archive/master.zip)
-+ clone the repo: `git clone https://github.com/zogorn/codeTimer.git`
++ Clone the repo: `git clone https://github.com/zogorn/codeTimer.git`
 + Add the script from CDN :
 
   `<script src="https://cdn.rawgit.com/zogorn/codeTimer/c6f95791/codeTimer.js"></script>`
++ To delete the local storage `localStorage.clear()`
 
 
 ***
