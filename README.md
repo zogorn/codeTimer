@@ -1,5 +1,5 @@
 # [codeTimer](https://github.com/zogorn/codeTimer)
-Take the title (TIMER) of the website and store it locally.
+Take the title **_TIMER_** of the website and store it locally.
 Developed for help web developer with the [stopWatch tap extention](https://chrome.google.com/webstore/detail/stopwatch-tab/kpgmkamkehfbeilamncpcaafbdfbjmmc)
 
 
