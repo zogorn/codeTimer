@@ -1,6 +1,20 @@
 # [codeTimer](https://github.com/zogorn/codeTimer)
-Take the title **_TIMER_** of the website and store it locally.
-Developed for help web developer with the [stopWatch tap extention](https://chrome.google.com/webstore/detail/stopwatch-tab/kpgmkamkehfbeilamncpcaafbdfbjmmc)
+Aim to help web developers to calculate the actual coding time on their projects.
+Take the title **_TIMER_** of the website and store it locally make you able to close the browser and start again at any time.
+
+
+***
+
+
+## Version
+Congratulations we just release our `1.0.0` version.
+
+
+### How To Use
++ You will find the codeTimer at the bottom right corner just hover it.
++ Press **Start** to start the timer.
++ press **Pause** to pause it.
++ Press **Save** to save the current time and enables you to close the browser and come back at any time.
 
 
 ***
@@ -12,8 +26,8 @@ You can choose from one of the bellow options:
 + Clone the repo: `git clone https://github.com/zogorn/codeTimer.git`
 + Add the script from CDN :
 
-  `<script src="https://cdn.rawgit.com/zogorn/codeTimer/c6f95791/codeTimer.js"></script>`
-+ To delete the local storage `localStorage.clear()`
+  `<script src="https://cdn.rawgit.com/zogorn/codeTimer/55bcefd7/codeTimer.min.js"></script>`
++ To delete the local storage `localStorage.clear()` at the console.
 
 
 ***
