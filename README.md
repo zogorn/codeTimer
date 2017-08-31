@@ -15,6 +15,7 @@ Congratulations we just release our `1.0.0` version.
 + Press **Start** to start the timer.
 + press **Pause** to pause it.
 + Press **Save** to save the current time and enables you to close the browser and come back at any time.
++ To delete the local storage `localStorage.clear()` at the console.
 
 
 ***
@@ -27,7 +28,6 @@ You can choose from one of the bellow options:
 + Add the script from CDN :
 
   `<script src="https://cdn.rawgit.com/zogorn/codeTimer/55bcefd7/codeTimer.min.js"></script>`
-+ To delete the local storage `localStorage.clear()` at the console.
 
 
 ***
