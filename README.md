@@ -31,7 +31,7 @@ You can choose from one of the bellow options:
 + Clone the repo: `git clone https://github.com/zogorn/codeTimer.git`
 + Add the script from CDN :
 
-  `<script src="https://cdn.rawgit.com/zogorn/codeTimer/55bcefd7/codeTimer.min.js"></script>`
+  `<script src="https://cdn.rawgit.com/zogorn/codeTimer/93752b3e/codeTimer.min.js"></script>`
 
 
 ***
