@@ -15,6 +15,7 @@ Congratulations we just release our `1.0.0` version.
 + Press **Start** to start the timer.
 + press **Pause** to pause it.
 + Press **Save** to save the current time and enables you to close the browser and come back at any time.
++ You will find the timer session on the **Tab Name** on your browser.
 + To delete the local storage `localStorage.clear()` at the console.
 
 
