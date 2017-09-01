@@ -7,7 +7,10 @@ Take the title **_TIMER_** of the website and store it locally make you able to 
 
 
 ## Version
-Congratulations we just release our `1.0.0` version.
+Congratulations we just release our `1.0.1` version.
+```
++ Improve the UX and make the codeTimer appear at startup and after click or hover take opacity
+```
 
 
 ### How To Use

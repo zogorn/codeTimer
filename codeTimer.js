@@ -158,7 +158,6 @@ document.addEventListener("DOMContentLoaded", function(){
       padding: '5px',
       background: '#EFEFEF',
       border: '1px solid #CCC',
-      opacity: 0.15,
       transition: 'all 0.2s ease-in-out'
    });
    // appear on hover
