@@ -1,6 +1,6 @@
 # [codeTimer](https://github.com/zogorn/codeTimer)
 Aim to help web developers to calculate the actual coding time on their projects.
-Take the title **_TIMER_** of the website and store it locally make you able to close the browser and start again at any time.
+Take **_The Title (TIMER)_** of the website and store it locally make you able to close the browser and start again at any time.
 
 
 ***
